@@ -1,1 +1,1 @@
-model = classpath:tag/chinese-distsim.tagger
+model = xcf:///tag/chinese-distsim.tagger
